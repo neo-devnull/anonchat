@@ -1,0 +1,22 @@
+.chat{
+ margin:auto;
+}
+
+.msgs{
+    margin: auto;
+    width: 750px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.send{
+    margin: auto;
+    border: 1px solid black;
+    width: 750px;
+}
+
+.send textarea {
+    width: 745px;
+    height: 70px;
+    resize: none
+}
