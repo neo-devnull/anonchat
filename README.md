@@ -1,3 +1,6 @@
+If you like this you would like LeetChat even better.
+Take a look at [LeetChat](https://github.com/haiderali97/leetchat "LeetChat")
+
 #ANONCHAT
 
 A very simple Omegle clone that is written using NodeJS, VueJS, Express and Socket.io
